@@ -26,6 +26,9 @@
 
 ![DMA Setting](img/DMA-Setting.png)
 
+## Подключение библиотеки
+Просто перенестите библиотеку в папку с проектом и подключить данную библиотеку в файле main.c
+
 
 # Полезные ссылки:
 [Статья](https://controllerstech.com/interface-ws2812-with-stm32/)
