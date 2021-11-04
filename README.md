@@ -30,7 +30,7 @@
 Просто перенестите библиотеку в папку с проектом и подключить данную библиотеку в файле main.c
 
 
-# Полезные ссылки:
+# Полезные ссылки
 [Статья](https://controllerstech.com/interface-ws2812-with-stm32/)
 
 [Создание анимаций на светодиодной ленте](https://adrianotiger.github.io/Neopixel-Effect-Generator/)
