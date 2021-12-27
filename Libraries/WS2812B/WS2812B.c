@@ -6,6 +6,7 @@
  */
 
 #include "WS2812B.h"
+#include <math.h>
 
 volatile int dataSentFlag=0; // Флаг который обозначает что все данные были переданы. 1 - переданы
 
